@@ -20,7 +20,7 @@ An engaging, interactive constellation map built with HTML5 Canvas and JavaScrip
 ## 🛠️ Tech Stack
 
 - ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5) **HTML5 Canvas** for interactive graphics
-- [JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)**JavaScript** for drawing, animations, and user interactions!
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)**JavaScript** for drawing, animations, and user interactions!
 - ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3) **CSS** for layout and basic styling
 
 
