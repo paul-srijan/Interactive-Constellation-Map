@@ -4,7 +4,8 @@ An engaging, interactive constellation map built with HTML5 Canvas and JavaScrip
 
 ## 🌠 Demo
 
-![Interactive Constellation Map](demo-image.png)  
+![Interactive Constellation Map - normal sky](demo/constellation.jpg)  
+![Constellation](demo/constellation.jpg)  
 *Screenshot of the Interactive Constellation Map*
 
 ## 🚀 Features
@@ -18,9 +19,10 @@ An engaging, interactive constellation map built with HTML5 Canvas and JavaScrip
 
 ## 🛠️ Tech Stack
 
-- **HTML5 Canvas** for interactive graphics
-- **JavaScript** for drawing, animations, and user interactions
-- **CSS** for layout and basic styling
+- ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5) **HTML5 Canvas** for interactive graphics
+- [JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript) **JavaScript** for drawing, animations, and user interactions!
+- ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3) **CSS** for layout and basic styling
+
 
 ## 📖 Getting Started
 
@@ -88,6 +90,18 @@ Contributions are what make the open-source community such a great place to lear
 Created by [Srijan Paul](https://github.com/paul-srijan)  
 Email: iampaulsrijan@gmail.com
 
+## Connect with Me
+
+Feel free to connect with me on my other platforms for updates, queries, or collaborations!
+
+
+- **GitHub**: [paul-srijan](https://github.com/paul-srijan)
+- **LinkedIn**: [Srijan Paul](https://www.linkedin.com/in/srijan-paul-547354260/)
+- **Email**: iampaulsrijan@gmail.com
+- **twitter**:[Paul Srijan](https://x.com/iampaulsrijan)
+
+---
+
 Happy stargazing! 🌌✨
-```
+
 
